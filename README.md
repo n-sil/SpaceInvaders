@@ -1,2 +1,3 @@
 # SpaceInvaders
-Clone of a famous game in vanilla JS
+Clone of a famous arcade game.  [Vanilla JS]
+
