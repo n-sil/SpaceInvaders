@@ -1,0 +1,21 @@
+/* Fonts */
+@font-face {
+    font-family: 'DaiAtlas';
+    src: url('fonts/Dai-Atlas-Italic.woff') format('woff'), 
+         url('fonts/Dai-Atlas-Italic.ttf')  format('truetype');
+}
+
+/* Background and page styling */
+
+body {
+  background-color: #000000;
+}
+
+canvas {
+  border:1px solid #000000;
+  background-image: url("res/background.png");
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);  
+}
